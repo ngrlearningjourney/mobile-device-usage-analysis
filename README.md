@@ -1,7 +1,7 @@
 # 📱 User Behavior on Device Usage – Data Analysis Portfolio
 
 Welcome to my Data Analysis Portfolio!  
-This project explores how users interact with their mobile devices, focusing on screen time, app installations, battery drain, and more. The goal is to uncover user behavior patterns and provide actionable insights that could help improve user experience, battery efficiency, and device design.
+This project explores how users interact with their mobile devices, focusing on screen time, app installations, battery drain, and more. The goal is to uncover user behavior patterns and provide actionable insights that could help improve user experience, battery efficiency, and device design. 
 
 ---
 
@@ -29,7 +29,7 @@ Dataset Source :  https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fda
 
 2. **Data Wrangling**  
    - Checked for and handled **missing values**, **duplicates**, **misspellings**, and **inconsistent formats**  
-   - Identified and addressed **outliers**
+   - Identified and addressed **outliers** 
 
 3. **Exploratory Data Analysis (EDA)**  
    - Explored distributions, trends, and relationships using visualizations and descriptive statistics
