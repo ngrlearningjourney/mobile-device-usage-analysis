@@ -50,7 +50,7 @@ Dataset Source :  https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fda
 
 - **Device and OS Usage**
   - The most popular devices are **Xiaomi Mi 11** and **iPhone 12**.
-  - **Android** is the dominant operating system (554 users), compared to **iOS** (146 users).
+  - **Android** is the dominant operating system (554 users), compared to **iOS** (146 users). 
 
 - **Screen Time and App Usage**
   - **Adults with OnePlus 9** spend the least time on mobile apps (30 mins/day).
